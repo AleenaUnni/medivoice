@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.env
+
+# Sensitive data
+users_store.json
+reports_store.json

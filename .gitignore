@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Sensitive
+backend/.env
+backend/users_store.json
+backend/reports_store.json
+
+# Node
+node_modules/
